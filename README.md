@@ -6,9 +6,9 @@ In the pursuit of enhancing healthcare cost management and planning, the Medical
 
 ## Key Features:
 
-* Linear Model Approach: The initial phase of the project involved implementing a Linear Regression model to predict medical costs based on patient characteristics. Through meticulous feature engineering and model optimization, an accuracy of 73% was achieved, providing a solid foundation for cost prediction.
+* Linear Model Approach: The initial phase of the project involved implementing a Linear Regression model to predict medical costs based on patient characteristics. Through meticulous feature engineering and model optimization, an accuracy of 73.11% was achieved, providing a solid foundation for cost prediction.
 
-* Random Forest Model Enhancement: To further improve prediction accuracy, an alternative approach using the Random Forest algorithm was explored. By harnessing the power of ensemble learning and decision trees, the Random Forest model delivered a remarkable accuracy of 82%, surpassing the performance of the linear model.
+* Random Forest Model Enhancement: To further improve prediction accuracy, an alternative approach using the Random Forest algorithm was explored. By harnessing the power of ensemble learning and decision trees, the Random Forest model delivered a remarkable accuracy of 83.06%, surpassing the performance of the linear model.
 
 * Evaluation and Comparison: Through rigorous evaluation metrics such as mean absolute error (MAE), mean squared error (MSE), and R-squared, the performance of both models was assessed and compared. The Random Forest model demonstrated superior predictive capabilities, showcasing its effectiveness in medical cost estimation.
 
